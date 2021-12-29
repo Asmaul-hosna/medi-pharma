@@ -1,0 +1,39 @@
+.navber{
+    background-color:#24AEB1;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    padding-top: 15px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+   
+   
+   }
+   .right{
+    float:right;
+    font-size:15px;
+    margin-right: 5%;
+   padding-top: 1%;
+   padding:14px 15px
+  }
+ 
+  .center{
+    padding-left: 150px;
+  }
+  .center ul li {
+    display: inline-block;
+ 
+    
+  }
+  .center ul li a {
+    display: inline-block;
+    color:white;
+    text-decoration: none;
+    padding:10px
+  }
+  .searchBar{
+    padding-left: 200px;
+  }
+   
+
+   

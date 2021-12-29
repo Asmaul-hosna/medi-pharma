@@ -1,0 +1,27 @@
+ .header{
+     background-color:#24AEB1;
+     height: 45px;
+     width: 100%;
+   
+ }
+ 
+ .icons{
+    float:right;
+   margin-right: 5%;
+   padding-top: 1%;
+   padding:14px 15px
+}
+
+.text{
+    float:left;
+    font-size:15px;
+    padding-left: 3%;
+    padding-top: 1%;
+    color:white
+}
+
+.icons a{
+    padding:13px;
+    color:white;
+}
+   
